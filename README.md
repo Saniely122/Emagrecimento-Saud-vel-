@@ -6,8 +6,7 @@ Este repositório será utilizado com intuito de provocar discussões sobre os c
 
 2. Descrição do projeto
 
-O Emagrecimento Saudável é a prototipo de um site criado para as pessoas que acreditam que há uma maneira saudável de emagrecer, sem tantas dietas rigorosas, academias etc. 
-O principal objetivo do site é informar a elas sobre algumas dicas de como emagrecer com saúde;(como fazer substituição de alimentos, a comer no horário certo, realizar exercios etc..).
+O Emagrecimento Saudável é a prototipo de um site criado para as pessoas que acreditam que há uma maneira saudável de emagrecer, sem tantas dietas rigorosas, academias etc. O principal objetivo do site é informar a elas sobre algumas dicas de como emagrecer com saúde;(como fazer substituição de alimentos, a comer no horário certo, realizar exercios etc..).
 
 
 3. Características do site
